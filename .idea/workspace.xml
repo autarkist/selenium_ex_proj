@@ -11,7 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02eae6d5-1663-4134-a67c-17208df8a372" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/self_diagnose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -82,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1593743379893</updated>
     </task>
+    <task id="LOCAL-00001" summary="self-diagnose">
+      <created>1593744178750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593744178750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +104,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="self-diagnose" />
+    <option name="LAST_COMMIT_MESSAGE" value="self-diagnose" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1146" y="111" key="#self_diagnose" timestamp="1593744066195">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -104,9 +117,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593743776753" />
-    <state x="922" y="164" key="SettingsEditor" timestamp="1593744027526">
+    <state width="468" height="279" key="GridCell.Tab.0.bottom" timestamp="1593752012042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593744027526" />
+    <state width="468" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593752012042" />
+    <state width="468" height="279" key="GridCell.Tab.0.center" timestamp="1593752012041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="468" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593752012041" />
+    <state width="468" height="279" key="GridCell.Tab.0.left" timestamp="1593752012041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="468" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593752012041" />
+    <state width="468" height="279" key="GridCell.Tab.0.right" timestamp="1593752012041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="468" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593752012041" />
+    <state x="922" y="164" key="SettingsEditor" timestamp="1593752036988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593752036988" />
   </component>
 </project>
